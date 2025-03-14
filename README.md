@@ -11,5 +11,5 @@ This repository contains my second task for the Data Science Internship at Prodi
 - Conducted Exploratory Data Analysis (EDA) to identify patterns.
 - Created visualizations to understand the relationships between variables.
 
-## LinkedIn Post: [Insert link here]
+## LinkedIn Post: https://www.linkedin.com/posts/arfaa-tasneem-7708a0291_datascience-internship-python-activity-7306205931220914176-lEtX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbJ3kQBdJ-oiedtfwVHgBMcnQL60mnomwY
 
